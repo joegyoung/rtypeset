@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
     "LICENSE.txt",
     "README.md"
   ]
-  s.required_ruby_version = '>= 2.0.0,
+  s.required_ruby_version = '>= 2.0.0'
   s.files = [
     ".document",
     ".travis.yml",
