@@ -32,10 +32,10 @@ module Typeset
   # The default typesetting methods and their configuration. Add new methods here
   # in whatever order makes sense.
   DefaultMethods = [
+    [:small_caps, true],
     [:quotes, true],
     [:hanging_punctuation, true],
     [:spaces, true],
-    [:small_caps, true],
     [:ligatures, false],
     [:punctuation, false],
     [:hyphenate, true]
